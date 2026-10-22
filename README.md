@@ -15,7 +15,6 @@ python greetings.py      # or: python3 greetings.py (Mac)
 ```
 
 ## I am Giridhar
-```
 
 ## I learnt Git and Github
 - git init:	Turn a folder into a git repo
